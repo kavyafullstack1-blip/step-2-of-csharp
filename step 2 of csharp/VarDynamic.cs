@@ -19,6 +19,7 @@ namespace step_2_of_csharp
             Console.WriteLine(d_Number);
             Console.WriteLine(d_Number.GetType());
 
+
         }
     }
 }
