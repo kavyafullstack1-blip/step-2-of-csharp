@@ -49,6 +49,13 @@ namespace step_2_of_csharp
 
             Console.WriteLine($"int MinValue: {int.MinValue}");
 
+            Console.WriteLine("enter your name");
+            string name=Console.ReadLine();
+            Console.WriteLine(name);
+
+
+            
+
         }
     }
 }

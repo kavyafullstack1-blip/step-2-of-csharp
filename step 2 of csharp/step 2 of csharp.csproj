@@ -35,7 +35,7 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>step_2_of_csharp.Arrays</StartupObject>
+    <StartupObject>step_2_of_csharp.method_with_parameter</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup />
@@ -71,6 +71,11 @@
     <Compile Include="Arrays.cs" />
     <Compile Include="DataTypeConver.cs" />
     <Compile Include="DataTypes.cs" />
+    <Compile Include="Geeks.cs" />
+    <Compile Include="loops.cs" />
+    <Compile Include="Greeks.cs" />
+    <Compile Include="method_with_parameter.cs" />
+    <Compile Include="Op_rater.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="string_basics.cs" />
